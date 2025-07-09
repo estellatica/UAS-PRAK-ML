@@ -1,0 +1,18 @@
+=== KLASIFIKASI SPAM SMS ===
+
+Jumlah data: 5572
+
+=== HASIL AKURASI ===
+Naive Bayes: 99.19%
+SVM        : 98.65%
+KNN        : 92.56%
+
+=== Laporan Klasifikasi Naive Bayes ===
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00       966
+           1       1.00      0.94      0.97       149
+
+    accuracy                           0.99      1115
+   macro avg       1.00      0.97      0.98      1115
+weighted avg       0.99      0.99      0.99      1115
